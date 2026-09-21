@@ -20,3 +20,31 @@ I'm a developer focused on building **full-stack web applications** and **AI-pow
 - 🌱 Currently strengthening my **Java & Spring Boot** backend development skills
 - 🔧 I enjoy turning ideas into practical, scalable applications
 - 📚 Always learning and experimenting with new technologies
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,javascript,python,cpp" />
+</p>
+
+### Frontend
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind" />
+</p>
+
+### Backend
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=spring,nodejs,express,fastapi" />
+</p>
+
+### Database & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,vscode" />
+</p>
