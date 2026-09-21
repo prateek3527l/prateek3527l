@@ -1,18 +1,18 @@
 <div align="center">
 
-<!-- ====================== HEADER BANNER ====================== -->
+<!-- ============================ HEADER ============================ -->
 
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://capsule-render.vercel.app/api?type=waving&color=0:1E1B4B,50:6366F1,100:EC4899&height=240&section=header&text=Prateek&fontSize=65&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38"
+    srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A5F,100:5B8DEF&height=240&section=header&text=Prateek&fontSize=65&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38"
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://capsule-render.vercel.app/api?type=waving&color=0:F8FAFC,50:C7D2FE,100:F9A8D4&height=240&section=header&text=Prateek&fontSize=65&fontColor=1E1B4B&animation=fadeIn&fontAlignY=38"
+    srcset="https://capsule-render.vercel.app/api?type=waving&color=0:EFF6FF,50:B8CCF4,100:5B8DEF&height=240&section=header&text=Prateek&fontSize=65&fontColor=1E3A5F&animation=fadeIn&fontAlignY=38"
   />
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:1E1B4B,50:6366F1,100:EC4899&height=240&section=header&text=Prateek&fontSize=65&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A5F,100:5B8DEF&height=240&section=header&text=Prateek&fontSize=65&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38"
     width="100%"
     alt="Prateek GitHub banner"
   />
@@ -23,29 +23,38 @@
 ### Full-Stack Developer • Java & Spring Boot • React • AI
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=900&color=EF93C4&center=true&vCenter=true&width=700&lines=Building+full-stack+web+applications;Java+%7C+Spring+Boot+%7C+React;Node.js+%7C+Express+%7C+MongoDB;Exploring+AI-powered+applications"
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=900&color=5B8DEF&center=true&vCenter=true&width=700&lines=Building+full-stack+web+applications;Java+%7C+Spring+Boot+%7C+React;Node.js+%7C+Express+%7C+MongoDB;Exploring+AI-powered+applications"
   alt="Typing SVG"
 />
 
 <br>
 
-<!-- ====================== PROFILE BADGES ====================== -->
+<!-- ============================ BADGES ============================ -->
 
 <a href="https://github.com/prateek3527l">
-  <img src="https://img.shields.io/github/followers/prateek3527l?style=for-the-badge&label=Followers&color=EF93C4&labelColor=1F2937" alt="GitHub followers"/>
+  <img
+    src="https://img.shields.io/github/followers/prateek3527l?style=for-the-badge&label=Followers&color=5B8DEF&labelColor=0F172A"
+    alt="GitHub followers"
+  />
 </a>
 
 <a href="https://github.com/prateek3527l/SkillSync-AI">
-  <img src="https://img.shields.io/github/stars/prateek3527l/SkillSync-AI?style=for-the-badge&label=SkillSync%20Stars&color=EF93C4&labelColor=1F2937" alt="SkillSync AI stars"/>
+  <img
+    src="https://img.shields.io/github/stars/prateek3527l/SkillSync-AI?style=for-the-badge&label=SkillSync%20Stars&color=5B8DEF&labelColor=0F172A"
+    alt="SkillSync AI stars"
+  />
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=prateek3527l&style=for-the-badge&color=EF93C4&label=Profile+Views" alt="Profile views"/>
+<img
+  src="https://komarev.com/ghpvc/?username=prateek3527l&style=for-the-badge&color=5B8DEF&label=Profile+Views"
+  alt="Profile views"
+/>
 
 </div>
 
 ---
 
-<!-- ====================== ABOUT ME ====================== -->
+<!-- ============================ ABOUT ME ============================ -->
 
 ## 👨‍💻 About Me
 
@@ -62,18 +71,16 @@ I'm a developer focused on building **full-stack web applications** and **AI-pow
 - 🔧 I enjoy turning ideas into practical and scalable applications
 - 📚 Always learning, experimenting, and building new projects
 
-<br>
-
 ### 🎯 Current Focus
 
 **Backend Development**  
-Java • Spring Boot • REST APIs • Application Architecture
+Java • Spring Boot • REST APIs • Backend Architecture
 
 **Full-Stack Development**  
 React • Node.js • Express • MongoDB
 
 **AI Integration**  
-Python • FastAPI • AI-powered developer tools
+Python • FastAPI • AI-powered applications
 
 </td>
 
@@ -91,7 +98,7 @@ Python • FastAPI • AI-powered developer tools
 
 ---
 
-<!-- ====================== TECH STACK ====================== -->
+<!-- ============================ TECH STACK ============================ -->
 
 ## 🛠️ Tech Stack
 
@@ -99,25 +106,37 @@ Python • FastAPI • AI-powered developer tools
 
 ### Languages
 
-<img src="https://skillicons.dev/icons?i=java,javascript,python,cpp" alt="Languages"/>
+<img
+  src="https://skillicons.dev/icons?i=java,javascript,python,cpp"
+  alt="Programming languages"
+/>
 
 ### Frontend
 
-<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,vite" alt="Frontend technologies"/>
+<img
+  src="https://skillicons.dev/icons?i=react,html,css,tailwind,vite"
+  alt="Frontend technologies"
+/>
 
 ### Backend
 
-<img src="https://skillicons.dev/icons?i=spring,nodejs,express,fastapi" alt="Backend technologies"/>
+<img
+  src="https://skillicons.dev/icons?i=spring,nodejs,express,fastapi"
+  alt="Backend technologies"
+/>
 
 ### Database & Tools
 
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,vscode" alt="Database and tools"/>
+<img
+  src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,vscode"
+  alt="Database and developer tools"
+/>
 
 </div>
 
 ---
 
-<!-- ====================== FEATURED PROJECT ====================== -->
+<!-- ============================ FEATURED PROJECT ============================ -->
 
 ## 🚀 Featured Project
 
@@ -129,7 +148,9 @@ Python • FastAPI • AI-powered developer tools
 
 </div>
 
-SkillSync AI helps users understand and improve their career readiness through:
+SkillSync AI is designed to help users understand and improve their career readiness through AI-assisted career tools.
+
+### ✨ Key Features
 
 - 📄 **Resume ATS Analysis**
 - 🎯 **Skill Gap Identification**
@@ -140,22 +161,22 @@ SkillSync AI helps users understand and improve their career readiness through:
 ### 🧩 Architecture
 
 ```text
-                    ┌──────────────────────┐
-                    │    React Frontend    │
-                    │ React 19 + Vite      │
-                    │ Tailwind + Framer    │
-                    └──────────┬───────────┘
-                               │
-                               ▼
-                    ┌──────────────────────┐
-                    │   Node.js + Express  │
-                    │      REST APIs       │
-                    └──────────┬───────────┘
-                               │
-                    ┌──────────┴───────────┐
-                    ▼                      ▼
-          ┌────────────────┐      ┌────────────────┐
-          │    MongoDB     │      │ Python FastAPI │
-          │    Database    │      │ Resume / AI    │
-          └────────────────┘      │    Analysis    │
-                                  └────────────────┘
+                    ┌─────────────────────────┐
+                    │      React Frontend     │
+                    │  React 19 + Vite        │
+                    │  Tailwind + Framer      │
+                    └────────────┬────────────┘
+                                 │
+                                 ▼
+                    ┌─────────────────────────┐
+                    │     Node.js + Express    │
+                    │        REST APIs         │
+                    └────────────┬────────────┘
+                                 │
+                      ┌──────────┴──────────┐
+                      ▼                     ▼
+             ┌────────────────┐    ┌────────────────┐
+             │    MongoDB     │    │ Python FastAPI │
+             │    Database    │    │ Resume / AI    │
+             └────────────────┘    │    Analysis    │
+                                   └────────────────┘
